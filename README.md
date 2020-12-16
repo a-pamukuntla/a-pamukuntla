@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hello, It's Akhila </h1>
 
-<!--
-**a-pamukuntla/a-pamukuntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Business Analytics @ 
+	<a href=https://zicklin.baruch.cuny.edu/ target="blank"> Baruch, Zicklin School of Business 
+	</a>, Bachelors in Computer Science with a minor in Math @ <a href=https://www.nyit.edu/ target="blank"> F.I.T </a>, Worked @ 
+	<a href=https://www.delltechnologies.com/en-us/index.htm target="blank">Dell Technologies</a>, 
+	<a href=https://www.mta.info/lirr target="blank">MTA - Long Island Rail Road</a>, 
+	<a href=https://www.tcs.com/ target="blank">TCS</a>
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href=mailto:a,pamukuntla@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="mailshivani" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/akhila-pamukuntla/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="akhilalinkedin" height="20" width="20" /></a>
+<a href=https://shivanidedhia.github.io/shivanidedhia.github.io./ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="shivaniswebpage" height="20" width="20" /></a>
+</p>
+<p>
+  
+- 👷‍ I’m currently a Graduate student at Baruch, Zicklin School of Business. I'm an incoming summer Software Engineer Intern @ Cisco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about my work experience or anything...
+
+</p>
