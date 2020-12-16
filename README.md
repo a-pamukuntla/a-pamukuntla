@@ -16,7 +16,7 @@
 </p>
 <p>
   
-- 👷‍ I’m currently a Graduate student at Baruch, Zicklin School of Business. I'm an incoming summer Software Engineer Intern @ Cisco.
+- 👷‍ I’m currently a Graduate student at Baruch, Zicklin School of Business. I'm an Incoming Summer Software Engineer Intern (2021) @ Cisco.
 
 - 💬 Ask me about my work experience or anything...
 
